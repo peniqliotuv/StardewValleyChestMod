@@ -1,0 +1,13 @@
+﻿{
+    "Name": "CommunityCenterReminder",
+    "Author": "Jerry Tsui",
+    "Version": {
+        "MajorVersion": 1,
+        "MinorVersion": 0,
+        "PatchVersion": 0,
+        "Build": null
+    },
+    "Description": "<One or two sentences about the mod>",
+    "UniqueID": "JerryTsui.CommunityCenterReminder",
+    "EntryDll": "CommunityCenterReminder.dll"
+}

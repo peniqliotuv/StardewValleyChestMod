@@ -1,0 +1,6 @@
+/Users/Charmonique/Documents/projects/CommunityCenterReminder/CommunityCenterReminder/bin/Debug/CommunityCenterReminder.dll
+/Users/Charmonique/Documents/projects/CommunityCenterReminder/CommunityCenterReminder/bin/Debug/CommunityCenterReminder.pdb
+/Users/Charmonique/Documents/projects/CommunityCenterReminder/CommunityCenterReminder/obj/Debug/CommunityCenterReminder.csprojResolveAssemblyReference.cache
+/Users/Charmonique/Documents/projects/CommunityCenterReminder/CommunityCenterReminder/obj/Debug/CommunityCenterReminder.csproj.CoreCompileInputs.cache
+/Users/Charmonique/Documents/projects/CommunityCenterReminder/CommunityCenterReminder/obj/Debug/CommunityCenterReminder.dll
+/Users/Charmonique/Documents/projects/CommunityCenterReminder/CommunityCenterReminder/obj/Debug/CommunityCenterReminder.pdb
